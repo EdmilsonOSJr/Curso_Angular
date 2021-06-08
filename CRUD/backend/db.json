@@ -1,24 +1,19 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
-    },
-    {
-      "id": 2,
-      "name": "Notebook MAC Pro",
-      "price": 12000.89
-    },
-    {
-      "id": 3,
-      "name": "Geladeira",
-      "price": 5000.89
-    },
-    {
-      "name": "Testando o form",
+      "name": "Testando o form dsfsdf",
       "price": "9.9",
       "id": 4
+    },
+    {
+      "name": "Geladeira grande",
+      "price": "2000",
+      "id": 5
+    },
+    {
+      "name": "celular",
+      "price": "3000",
+      "id": 6
     }
   ]
 }
